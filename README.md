@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="http://www.github.com/aamir-razdan"><img src="https://activity-graph.herokuapp.com/graph?username=aamir-razdan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<img src="https://gpvc.arturio.dev/aadiiks" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/aadiiks?style=social"/> 
+<img src="https://gpvc.arturio.dev/aamir-razdan" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/aamir-razdan?style=social"/> 
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
