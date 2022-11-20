@@ -37,7 +37,7 @@ I've been learning to code for 3 years and like to learn new technologies in day
 
 ### Socials
                   
-<p align="left"> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/739481736215527454" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Aamir-Razdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aamirrazdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aamir-razdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aamirrazdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Aamir-Razdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aamirrazdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aamir-razdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aamirrazdan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 <h1 align="center">My Workbench 💻 </h1>
 <div align="center">
@@ -64,14 +64,14 @@ I've been learning to code for 3 years and like to learn new technologies in day
 
 
 
-<!-- - 👋 Hi, I’m ADITYA KUMAR SINGH @aadiiks aka @0xA4di1
-- 👀 I’m interested in ... Web Development, Security Researcher, CTFs and Competitive Programming
+<!-- - 👋 Hi, I’m Aamir Razdan @aadiiks aka @0xA4di1
+- 👀 I’m interested in ... Web Development.
 - 🌱 I’m currently learning ...Full Stack Web-Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...via instagram(@aadiiks_), discord(@0xA4di1#1021). -->
+- 📫 How to reach me ...via instagram(), discord(). -->
 
 <!---
-aadiiks/aadiiks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -79,18 +79,18 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=aadiiks&count_private=true&show_icons=true&theme=dracula" />
 </p> -->
 <p align="">
-<img src="https://github-readme-stats.vercel.app/api?username=aadiiks&count_private=true&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+<img src="https://github-readme-stats.vercel.app/api?username=aamir-razdan&count_private=true&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
 </p>
 <!-- &title_color=ffffff&text_color=daf7dc&bg_color=000000 -->
 
 <p align="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiiks&langs_count=16&layout=compact&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-razdan&langs_count=16&layout=compact&theme=cobalt" />
 </p>
 <!-- &theme=tokyonight -->
-<a href="http://www.github.com/aadiiks"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadiiks&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/aamir-razdan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadiiks&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="http://www.github.com/aadiiks"><img src="https://activity-graph.herokuapp.com/graph?username=aadiiks&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/aamir-razdan"><img src="https://activity-graph.herokuapp.com/graph?username=aamir-razdan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <img src="https://gpvc.arturio.dev/aadiiks" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/aadiiks?style=social"/> 
 
 
