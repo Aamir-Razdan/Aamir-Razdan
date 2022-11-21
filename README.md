@@ -12,7 +12,7 @@ I've been learning to code for 3 years and like to learn new technologies in day
 *   🖥️  See my portfolio at []()
 *   ✉️  You can contact me at [aamirrazdan786@gmail.com](mailto:aamirrazdan786h@gmail.com)
 *   🚀  I'm currently working on [InDevelopment]()
-*   🧠  I'm learning WEB+SEC
+*   🧠  I'm learning WEB+UI/UX
 *   🤝  I'm open to collaborating on Front End Development
 *   ⚡  I'm can grab new things quickly.... but don't tell anyone.
 
