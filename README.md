@@ -6,7 +6,7 @@ Hi 👋 My name is Aamir Razdan
 Web Developer and Designer
 -------------------------------------
 
-I've been learning to code for 3 years and like to learn new technologies in day to day life. Currently a CSE undergrad student at BCREC with knowledge in Development and designer.
+I've been learning to code for 2 years and like to learn new technologies in day to day life. Currently a CSE undergrad student at BCREC with knowledge in Development and designer.
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at []()
