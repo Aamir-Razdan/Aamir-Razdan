@@ -11,7 +11,7 @@ I've been learning to code for 2 years and like to learn new technologies in day
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [aamirrazdan786@gmail.com](mailto:aamirrazdan786h@gmail.com)
 *   🚀  I'm currently working on [InDevelopment]()
-*   🧠  I'm learning WEB+UI/UX
+*   🧠  I'm learning WEB+UI/UX + UX Unicorn 
 *   🤝  I'm open to collaborating on Front End Development
 
 
