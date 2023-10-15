@@ -1,18 +1,31 @@
 <!-- Buy Me a Coffee: -->
 
-Hi 👋 My name is Aamir Razdan
-===================================
+👋 Hello there, I'm Aamir Razdan
 
-Web Developer and Designer
--------------------------------------
+🚀 Front-End Developer | UI/UX Designer | Creative Thinker
 
-I've been learning to code for 2 years and like to learn new technologies in day to day life. Currently a CSE undergrad student at BCREC with knowledge in Development and designer.
+🌟 Passionate about crafting digital experiences that leave a lasting impression.
 
-*   🌍  I'm based in India
+🎨 With a keen eye for design and a strong foundation in coding, I bring your ideas to life with style and substance.
+
+💻 Tech Stack:
+  - HTML, CSS, JavaScript
+  - React.js
+  - Bootstrap
+  - Figma
+  - UI/UX Design
+
+🔨 What I Do:
+  - Transform ideas into interactive and user-friendly websites and web applications.
+  - Create stunning user interfaces that seamlessly blend aesthetics and functionality.
+  - Collaborate on projects that push the boundaries of design and technology.
+
+💡 Always eager to learn and grow, I thrive on challenges and am committed to delivering excellence in every project.
+
+🌐 Let's connect and turn your vision into reality!
+
 *   ✉️  You can contact me at [aamirrazdan786@gmail.com](mailto:aamirrazdan786h@gmail.com)
-*   🚀  I'm currently working on [InDevelopment]()
-*   🧠  I'm learning WEB+UI/UX + UX Unicorn 
-*   🤝  I'm open to collaborating on Front End Development
+
 
 
 ### Skills
